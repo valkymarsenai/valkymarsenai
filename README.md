@@ -4,9 +4,7 @@
 
 Me chamo Valkymar Ribeiro, sou natural do Piaui.
 <p align="left">
-        />
     </a>
-        />
     </a> 
     <a href="https://[github.com/luzardoSENAI?tab=repositories&sort=starsgazer](https://github.com/valkymarsenai/valkymarsenai/new/main?readme=1)">
         <img 
